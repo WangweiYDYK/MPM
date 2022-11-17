@@ -1,0 +1,131 @@
+{
+	"kind" : "toolchains",
+	"toolchains" : 
+	[
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"D:/Library/Mingw/lib/gcc/x86_64-w64-mingw32/10.2.0/include",
+						"D:/Library/Mingw/lib/gcc/x86_64-w64-mingw32/10.2.0/include-fixed",
+						"D:/Library/Mingw/x86_64-w64-mingw32/include"
+					],
+					"linkDirectories" : 
+					[
+						"D:/Library/Mingw/lib/gcc/x86_64-w64-mingw32/10.2.0",
+						"D:/Library/Mingw/lib/gcc",
+						"D:/Library/Mingw/x86_64-w64-mingw32/lib",
+						"D:/Library/Mingw/lib"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"mingw32",
+						"gcc",
+						"moldname",
+						"mingwex",
+						"pthread",
+						"advapi32",
+						"shell32",
+						"user32",
+						"kernel32",
+						"mingw32",
+						"gcc",
+						"moldname",
+						"mingwex"
+					]
+				},
+				"path" : "D:/Library/Mingw/bin/gcc.exe",
+				"version" : "10.2.0"
+			},
+			"language" : "C",
+			"sourceFileExtensions" : 
+			[
+				"c",
+				"m"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"D:/Library/Mingw/include/c++/10.2.0",
+						"D:/Library/Mingw/include/c++/10.2.0/x86_64-w64-mingw32",
+						"D:/Library/Mingw/include/c++/10.2.0/backward",
+						"D:/Library/Mingw/lib/gcc/x86_64-w64-mingw32/10.2.0/include",
+						"D:/Library/Mingw/lib/gcc/x86_64-w64-mingw32/10.2.0/include-fixed",
+						"D:/Library/Mingw/x86_64-w64-mingw32/include"
+					],
+					"linkDirectories" : 
+					[
+						"D:/Library/Mingw/lib/gcc/x86_64-w64-mingw32/10.2.0",
+						"D:/Library/Mingw/lib/gcc",
+						"D:/Library/Mingw/x86_64-w64-mingw32/lib",
+						"D:/Library/Mingw/lib"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"stdc++",
+						"mingw32",
+						"gcc",
+						"moldname",
+						"mingwex",
+						"pthread",
+						"advapi32",
+						"shell32",
+						"user32",
+						"kernel32",
+						"mingw32",
+						"gcc",
+						"moldname",
+						"mingwex"
+					]
+				},
+				"path" : "D:/Library/Mingw/bin/g++.exe",
+				"version" : "10.2.0"
+			},
+			"language" : "CXX",
+			"sourceFileExtensions" : 
+			[
+				"C",
+				"M",
+				"c++",
+				"cc",
+				"cpp",
+				"cxx",
+				"mm",
+				"mpp",
+				"CPP",
+				"ixx",
+				"cppm"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"implicit" : {},
+				"path" : "D:/Library/Mingw/bin/windres.exe"
+			},
+			"language" : "RC",
+			"sourceFileExtensions" : 
+			[
+				"rc",
+				"RC"
+			]
+		}
+	],
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

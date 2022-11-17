@@ -1,0 +1,37 @@
+[
+{
+  "directory": "D:/Code/OpenGL Projects/MPM/build",
+  "command": "D:/Library/Mingw/bin/g++.exe  @CMakeFiles/HelloOpenGL.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/HelloOpenGL.dir/src/border.cpp.obj -c \"D:/Code/OpenGL Projects/MPM/src/border.cpp\"",
+  "file": "D:/Code/OpenGL Projects/MPM/src/border.cpp"
+},
+{
+  "directory": "D:/Code/OpenGL Projects/MPM/build",
+  "command": "D:/Library/Mingw/bin/g++.exe  @CMakeFiles/HelloOpenGL.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/HelloOpenGL.dir/src/main.cpp.obj -c \"D:/Code/OpenGL Projects/MPM/src/main.cpp\"",
+  "file": "D:/Code/OpenGL Projects/MPM/src/main.cpp"
+},
+{
+  "directory": "D:/Code/OpenGL Projects/MPM/build",
+  "command": "D:/Library/Mingw/bin/g++.exe  @CMakeFiles/HelloOpenGL.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/HelloOpenGL.dir/src/node.cpp.obj -c \"D:/Code/OpenGL Projects/MPM/src/node.cpp\"",
+  "file": "D:/Code/OpenGL Projects/MPM/src/node.cpp"
+},
+{
+  "directory": "D:/Code/OpenGL Projects/MPM/build",
+  "command": "D:/Library/Mingw/bin/g++.exe  @CMakeFiles/HelloOpenGL.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/HelloOpenGL.dir/src/particle.cpp.obj -c \"D:/Code/OpenGL Projects/MPM/src/particle.cpp\"",
+  "file": "D:/Code/OpenGL Projects/MPM/src/particle.cpp"
+},
+{
+  "directory": "D:/Code/OpenGL Projects/MPM/build",
+  "command": "D:/Library/Mingw/bin/g++.exe  @CMakeFiles/HelloOpenGL.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/HelloOpenGL.dir/src/solver.cpp.obj -c \"D:/Code/OpenGL Projects/MPM/src/solver.cpp\"",
+  "file": "D:/Code/OpenGL Projects/MPM/src/solver.cpp"
+},
+{
+  "directory": "D:/Code/OpenGL Projects/MPM/build",
+  "command": "D:/Library/Mingw/bin/g++.exe  @CMakeFiles/HelloOpenGL.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles/HelloOpenGL.dir/src/vector.cpp.obj -c \"D:/Code/OpenGL Projects/MPM/src/vector.cpp\"",
+  "file": "D:/Code/OpenGL Projects/MPM/src/vector.cpp"
+},
+{
+  "directory": "D:/Code/OpenGL Projects/MPM/build",
+  "command": "D:/Library/Mingw/bin/gcc.exe  @CMakeFiles/HelloOpenGL.dir/includes_C.rsp -g -o CMakeFiles/HelloOpenGL.dir/glad.c.obj -c \"D:/Code/OpenGL Projects/MPM/glad.c\"",
+  "file": "D:/Code/OpenGL Projects/MPM/glad.c"
+}
+]
